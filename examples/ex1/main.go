@@ -12,8 +12,10 @@ var exampleHtml = `
 <body>
   <h1>Hello!</h1>
   <a href="/other-page">A link to another page</a>
-  <a href="/AAAAAAAA">A link to another page</a>
-  <a href="/ODAKLE SAM JA">A link to another page</a>
+  <a href="/AAAAAAAA">Dojavola ova 
+  
+  sudbina</a>
+  <a href="/ODAKLE SAM JA">Svadbe		 su sa okidacima, sahrane sa trubacima</a>
 </body>
 </html>
 `
