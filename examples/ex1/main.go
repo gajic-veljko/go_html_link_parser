@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"html/link-shortener"
+	"github.com/gajic-veljko/go_html_link_parser"
 )
 
 var exampleHtml = `
