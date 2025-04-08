@@ -1,4 +1,5 @@
-module html/link-shortener
+module github.com/gajic-veljko/go_html_link_parser
+
 
 go 1.24.1
 
